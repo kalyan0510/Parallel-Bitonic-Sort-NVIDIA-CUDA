@@ -16,9 +16,8 @@ Setup on Windows
 
 AnalysisReport:
 
-   N       time over        time over        is sorted?    speedup:
-
-          serial code      Bitonic CUDA code
+    N       time over        time over      is sorted?    speedup
+         serial code      Bitonic CUDA code
 
       4      0.00000          0.00000          YES     0.000000
 
