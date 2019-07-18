@@ -1,5 +1,10 @@
 **READ ME**
 
+
+In detail document: 
+https://docs.google.com/document/d/e/2PACX-1vR4oP3_WhNM-sgOSx4_VIAJU0iqe1zTZdnnFqqJXM8DGCo-udl8aYzUBMs/pub
+
+
 Before we start setup first we need to make sure
 
 1. 1)that the computer you are on has a supported GPU
