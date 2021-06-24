@@ -99,7 +99,3 @@ https://docs.google.com/document/d/e/2PACX-1vR4oP3_WhNM-sgOSx4_VIAJU0iqe1zTZdnnF
 [3]: https://lh3.googleusercontent.com/PlnpHiCG78bBKmOUpd_xLOI4uAPZ1WfJpr7pqz5YXZul83XKgKgPeuL9YXdTz54mpfMB072U6h9H_-PS3zRvE7GcoCwjC1aMKH1MqNUdUAvecL8mWcdTYCFHl8U
 [4]: https://lh4.googleusercontent.com/nlCLuyqTnp5aT5zKmpyggo2EiKYBD-61cDv7FDNlF8YAh31bwe5MNPcIIdflrq7uVNB6neNcMfKgbEcCjmX3EM6KUQQVZFo7jJvs4qBU2VZd1ETV2fHMn8KfbSg
 [5]: https://lh3.googleusercontent.com/0FzuZ0wRleGFxe5jUna25IAzX5obE9NFky2s95Ml7-YvPC3RCYg5FwbHRTWLNmsoVU4iYL8t0cdmHX0P1YYql_sa8PohRydjxvluxwcQYE4ueAiGj3me8leU31I "horizontal line"
-
-  
-
-Enter a string or /regular expression/
